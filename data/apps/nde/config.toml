@@ -9,7 +9,6 @@ read="users"
 write="users" 
 
 [app.html]
-style="data-envelopes.css"
 
 [app.prof.dataset]
 prof="clarin.eu:cr1:p_1708423613599"
